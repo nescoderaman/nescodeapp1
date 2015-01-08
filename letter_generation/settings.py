@@ -37,10 +37,9 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'offer_letter',
-    'datetimewidget',
-    'easy_pdf',
+    #'datetimewidget',
+    #'easy_pdf',
     'login',
-    'sms',
 
 
 
