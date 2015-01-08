@@ -38,7 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'offer_letter',
     #'datetimewidget',
-    #'easy_pdf',
+    'easy_pdf',
     'login',
 
 
